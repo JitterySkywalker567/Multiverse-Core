@@ -11,6 +11,6 @@ public class MultiverseCore implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Multiverse Core has loaded");
 	}
 }
